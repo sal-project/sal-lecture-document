@@ -1,0 +1,9 @@
+{:title "Webアプリケーションの技術"
+ :id "01-web-tech"
+ :description "Webアプリケーションを構成する要素技術について"
+ :control {:type "simple"}
+ :files [
+        {:file "01-first.md" :nickname "Webアプリケーションとは" :type :doc}
+        {:file "02-test.edn" :nickname "確認問題" :type :test}
+　　　　]
+}

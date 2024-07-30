@@ -1,0 +1,5 @@
+{:title "最後に"
+ :id "04-conclusion"
+ :description "まとめ"
+ :control {:type "singlepage"}
+ :files [{:file "01-first.md" :type :doc}]}

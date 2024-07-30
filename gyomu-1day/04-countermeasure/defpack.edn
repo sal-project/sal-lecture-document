@@ -1,0 +1,5 @@
+{:title "対策検討及び対策実装"
+ :id "04-countermeasure"
+ :description "本演習の環境及び実施模擬攻撃に対する対策を講じる"
+ :control {:type "singlepage"}
+ :files [{:file "01-discussion.md" :nickname "対策検討" :type :doc}]}

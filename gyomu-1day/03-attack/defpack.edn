@@ -1,0 +1,7 @@
+{:title "サイバー模擬攻撃の体験"
+ :id "03-attack"
+ :description "サイバー模擬攻撃を体験します。"
+ :control {:type "simple"}
+ :files [{:file "01-attack.md" :nickname "模擬攻撃体験" :type :doc}
+        ]
+}

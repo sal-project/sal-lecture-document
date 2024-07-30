@@ -1,0 +1,20 @@
+{:config {:order :random}
+ :tests [{:type :selection
+          :exam "研修用Webツールにログインしたいときに最初に押すボタンは？"
+          :options ["Login" "Logon" "ROGUIN"]
+          :answer 1}
+         {:type :input
+          :exam "講義を受け終わったら講義ページの何というボタンを押せばいい？"
+          :answer ["Mark as completed"
+                   "mark as completed"
+                   "マークアズコンプリート"
+                   ]}
+         {:type :multiselection
+          :exam "「導入」パッケージにある2個の受講講座と1個のテストの名前を全て選べ"
+          :options ["はじめに"
+                    "研修用Webツールの使い方"
+                    "This answer is not correct."
+                    "演習問題（例）"]
+          :answer [1 2 4]}]}
+
+

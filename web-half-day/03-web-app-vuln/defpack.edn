@@ -1,0 +1,7 @@
+{:title "Webアプリケーションの脆弱性体験"
+ :id "03-web-app-vuln"
+ :description "Webアプリケーションにおける代表的な脆弱性について学ぶ"
+ :control {:type "simple"}
+ :files [{:file "01-first.md" :nickname "Webアプリケーションの脆弱性体験" :type :doc}
+        　{:file "02-test.edn" :nickname "確認問題" :type :test}]
+}

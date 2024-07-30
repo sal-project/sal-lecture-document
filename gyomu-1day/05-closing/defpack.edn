@@ -1,0 +1,8 @@
+{:title "おわりに"
+ :id "05-closing"
+ :description "最後のまとめ"
+ :control {:type "simple"}
+ :files [{:file "01-closing.md" :nickname "おわりに" :type :doc}
+         {:file "02-last-test.edn" :nickname "最後の試験" :type :test}
+        ]
+}

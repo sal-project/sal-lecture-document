@@ -1,0 +1,13 @@
+{:config {:order :random}
+ :tests [{:type :selection
+          :exam "Webサーバを実現するサーバ側のソフトウェアとして正しいものを選びなさい"
+          :options ["Web Server OSS" "bind" "Apache HTTP Server"]
+          :answer 3}
+         {:type :input
+          :exam "'User'というテーブルから全てのレコードを抜き出し全てのカラムを表示するSQLを記載しなさい"
+          :answer ["SELECT * FROM User;"
+                   "select * from User;"]}
+ ]
+}
+
+

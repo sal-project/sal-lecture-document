@@ -1,0 +1,15 @@
+{:config {:order :ascending}
+ :tests [{:type :selection
+          :exam "ADの主な機能として、適切なものを一つ選べ"
+          :options ["ProxyサーバやWebサーバのログを収集し、保存する"
+                    "PCの代わりにインターネットと通信をする"
+                    "Windowsのユーザを一元管理する"]
+          :answer 3}
+        {:type :selection
+          :exam "セキュリティグループの1つである、Domain Adminsの説明の内、正しいものを1つ選べ"
+          :options ["ローカルのPCであらゆる操作が可能な特別な権限を有しているアカウント"
+                  "ドメインの管理者として、強い権限を与えられているグループ"
+                  "ドメインユーザがデフォルトで所属するグループ"]
+          :answer 2}
+          ]}
+

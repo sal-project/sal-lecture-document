@@ -1,0 +1,13 @@
+{:title "システム構築演習"
+ :id "02-construction"
+ :description "業務システムを構成する各サーバーの構築について学びます。"
+ :control {:type "simple"}
+ :files [{:file "01-infra.md" :nickname "基盤構築" :type :doc}
+        {:file "02-DNS-setup.md" :nickname "DNS" :type :doc}
+        {:file "03-DNS-test.edn" :nickname "確認問題（DNS）" :type :test}
+        {:file "04-AD-setup.md" :nickname "Active Directory" :type :doc}
+        {:file "05-AD-test.edn" :nickname "確認問題（Active Directory）" :type :test}
+        {:file "06-FS-setup.md" :nickname "ファイルサーバー" :type :doc}
+        {:file "07-FS-test.edn" :nickname "確認問題（ファイルサーバー）" :type :test}
+        ]
+}

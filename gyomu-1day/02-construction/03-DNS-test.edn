@@ -1,0 +1,15 @@
+{:config {:order :ascending}
+ :tests [{:type :selection
+          :exam "DNSの機能として適切なものを1つ選べ"
+          :options ["IPとポートに基づいて通信を制御する"
+                    "IPを動的にクライアントに割り振る"
+                    "ドメイン名をIPに変換する"]
+          :answer 3 }
+        {:type :selection
+          :exam "BINDについて正しいものを選べ"
+          :options ["53番Port宛の通信のみを処理する仕様になっている"
+                    "BINDが参照するファイルとして設定ファイルやゾーンファイルがある"
+                    "DNSとして機能させるソフトウェアは全世界にBINDのみである"]
+          :answer 2 }
+          ]}
+

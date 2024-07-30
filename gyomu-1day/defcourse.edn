@@ -1,0 +1,11 @@
+{:title "ハンズオンで学ぶ業務システムの基礎とセキュリティ"
+ :id "sal-gyomu-1day"
+ :description "業務システムを構成する各サーバーの構築や、システムに対する攻撃・対策について学びます"
+ :license "N/A"
+ :contents [{:directory "01-introduction"}
+            {:directory "02-construction"}
+            {:directory "03-attack"}
+            {:directory "04-countermeasure"}
+            {:directory "05-closing"}
+            ]
+}

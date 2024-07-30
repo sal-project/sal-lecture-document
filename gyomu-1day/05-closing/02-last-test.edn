@@ -1,0 +1,9 @@
+{:config {:order :ascending}
+ :tests [
+        {:type :selection
+          :exam "本研修の満足度合いはどれか。（答えは一つ）"
+          :options ["大変満足" "満足" "どちらでもない" "不満" "大変不満"]
+          :answer 1}
+        ]
+}
+

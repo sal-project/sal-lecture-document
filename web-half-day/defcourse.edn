@@ -1,0 +1,10 @@
+{:title "ハンズオンで学ぶWebアプリケーションの基礎とセキュリティ"
+ :id "sal-web-half-day"
+ :description "Webを構成する要素技術および代表的な脆弱性について学びます"
+ :license "N/A"
+ :contents [
+            {:directory "01-web-tech" :level 1}
+            {:directory "02-building-web-app" :level 1}
+            {:directory "03-web-app-vuln" :level 1}
+            {:directory "04-conclusion" :level 1}
+        ]}

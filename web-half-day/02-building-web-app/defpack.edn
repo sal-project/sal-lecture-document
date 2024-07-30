@@ -1,0 +1,5 @@
+{:title "Webアプリケーションの構成把握"
+ :id "02-building-web-app"
+ :description "本演習で使用するWebアプリケーションの構成を把握"
+ :control {:type "singlepage"}
+ :files [{:file "01-first.md" :nickname "Webアプリケーションの構成把握" :type :doc}]}
